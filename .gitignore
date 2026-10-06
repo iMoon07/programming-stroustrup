@@ -1,0 +1,32 @@
+# Compiled binaries
+angka.bin
+basis
+biner
+cari_kata
+game_input
+hapus_vokal
+hitung_angka
+input_basis
+input_prefix
+istringstream
+istringstream-game
+karakter
+kata
+log_app
+lowercase
+multi_input
+ostringstream
+pecahan
+posisi
+presisi
+read
+read_write
+stringstream
+tokenizer
+tolower
+tulis_file
+ukur_byte
+
+# Object files
+*.o
+*.out
